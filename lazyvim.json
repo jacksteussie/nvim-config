@@ -1,5 +1,6 @@
 {
   "extras": [
+    "lazyvim.plugins.extras.editor.neo-tree",
     "lazyvim.plugins.extras.lang.clangd",
     "lazyvim.plugins.extras.lang.cmake",
     "lazyvim.plugins.extras.lang.docker",
@@ -19,7 +20,8 @@
     "lazyvim.plugins.extras.ui.dashboard-nvim",
     "lazyvim.plugins.extras.ui.edgy",
     "lazyvim.plugins.extras.util.gitui",
-    "lazyvim.plugins.extras.util.octo"
+    "lazyvim.plugins.extras.util.octo",
+    "lazyvim.plugins.extras.util.startuptime"
   ],
   "install_version": 8,
   "news": {
