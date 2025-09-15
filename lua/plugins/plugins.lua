@@ -1,4 +1,7 @@
-return {
-  "kmontocam/nvim-conda",
+--[[
+  return {
+  { "kmontocam/nvim-conda", enabled = false },
   dependencies = { "nvim-lua/plenary.nvim" },
 }
+]]
+return {}

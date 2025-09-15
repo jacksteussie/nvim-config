@@ -1,13 +1,11 @@
 return {
-  -- add gruvbox
-  { "ellisonleao/gruvbox.nvim" },
   { "m00qek/baleia.nvim", tag = "v1.4.0" },
 
-  -- Configure LazyVim to load gruvbox
+  -- Configure LazyVim to load themes
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "tokyonight",
     },
   },
 }
