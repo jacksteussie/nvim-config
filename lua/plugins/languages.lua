@@ -41,7 +41,7 @@ return {
 
   -- Mason LSP Servers
   {
-    "williamboman/mason-lspconfig.nvim",
+    "mason-org/mason-lspconfig.nvim",
     opts = {
       ensure_installed = {
         "lua_ls",
@@ -62,7 +62,7 @@ return {
 
   -- Formatters and Linters via Mason
   {
-    "williamboman/mason.nvim",
+    "mason-org/mason.nvim",
     opts = {
       ensure_installed = {
         "stylua", -- Lua formatter
