@@ -5,3 +5,5 @@
 vim.opt.shiftwidth = 4
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
+
+vim.g.material_style = "darker"
